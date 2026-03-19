@@ -1,2 +1,2 @@
 # Analyzing-E-Learning-Platform-Purchases-using-MySQL
-This project focuses on analyzing data from an E-Learning Platform using SQL.  The database captures information about learners, courses, course categories,  pricing, and purchase transactions. The goal is to transform raw transactional data  into meaningful business insights that help stakeholders understand sales  performance.
+“Using SQL, I analyzed an e-learning platform’s transactional data to uncover sales performance trends, diagnose underperforming courses, predict learner behavior, and recommend strategies to improve revenue and engagement.”<img width="893" height="82" alt="image" src="https://github.com/user-attachments/assets/89a7336a-5663-4a53-917b-c4a7a1150325" />
